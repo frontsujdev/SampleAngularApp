@@ -13,7 +13,7 @@ export class AppComponent {
 //     "strong_skills":{
 //       "processing speed":541,
 //       "spatial perception":425,
-//       "visual scanning":414
+//       "visual scanning":414 
 //     },
 //     "improvement_skills":{
 //       "divided attention":204,
